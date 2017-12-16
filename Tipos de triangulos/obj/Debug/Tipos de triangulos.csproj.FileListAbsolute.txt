@@ -1,0 +1,6 @@
+c:\users\jose\documents\visual studio 2015\Projects\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.exe.config
+c:\users\jose\documents\visual studio 2015\Projects\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.exe
+c:\users\jose\documents\visual studio 2015\Projects\Tipos de triangulos\Tipos de triangulos\bin\Debug\Tipos de triangulos.pdb
+c:\users\jose\documents\visual studio 2015\Projects\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.csprojResolveAssemblyReference.cache
+c:\users\jose\documents\visual studio 2015\Projects\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.exe
+c:\users\jose\documents\visual studio 2015\Projects\Tipos de triangulos\Tipos de triangulos\obj\Debug\Tipos de triangulos.pdb
